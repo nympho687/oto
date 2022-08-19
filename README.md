@@ -55,7 +55,7 @@ systemctl restart wg-quick@wg0
 
  ## Script for Sell Only. Contact owner on Telegram @sam_sfx <a href="https://t.me/sam_sfx" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
- ## For Buy Script : Contact Telegram @sam_sfx <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+ ## For Buy Script : Contact Telegram @sam_sfx <a href="https://t.me/sam_sfx" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
 
   ## Status Running
