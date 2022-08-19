@@ -49,4 +49,4 @@ systemctl restart ohps
 echo ""
 echo -e "${GREEN}Done Installing OHP OpenSSH${NC}"
 echo -e "Port OHP OpenSSH: $ohpp"
-echo -e "Script By NORULEZZx"
+echo -e "Script By sam_sfx"

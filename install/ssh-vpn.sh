@@ -15,9 +15,9 @@ ver=$VERSION_ID
 country="MY"
 state="Sabah"
 locality="Kota Kinabalu"
-organization="@Norulezzx"
-organizationalunit="@Norulezzx"
-commonname="DIY_VPN"
+organization="@sam_sfx"
+organizationalunit="@sam_sfx"
+commonname="SAMVPN"
 email="admin@d-vpn.com"
 
 # simple password minimal

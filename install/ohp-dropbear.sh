@@ -49,4 +49,4 @@ systemctl restart ohpd
 echo ""
 echo -e "${GREEN}Done Installing OHP Dropbear${NC}"
 echo -e "Port OHP DROPBEAR: $ohpp"
-echo -e "Script By NORULEZZx"
+echo -e "Script By sam_sfx"
