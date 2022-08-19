@@ -18,9 +18,9 @@ echo -e "\e[32mloading...\e[0m"
 clear
 # Version sc
 VERSIONSC () {
-    VCODE=V1
+    SCODE=V1
     IZINVERSION=$(curl https://raw.githubusercontent.com/${GitUser}/ipaccess/main/access | grep $MYIP | awk '{print $6}')
-    if [ $VCODE = $IZINVERSION ]; then
+    if [ $SCODE = $IZINVERSION ]; then
     echo -e "\e[32mReady for script installation version 1 (websocket)..\e[0m"
     else
     echo -e "\e[31mYou do not have permission to install script version 1 (websocket)!\e[0m"
@@ -275,7 +275,7 @@ echo "   - Auto Delete Expired Account" | tee -a log-install.txt
 echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
-echo "-------------------------Script By DiyVpn-----------------------" | tee -a log-install.txt
+echo "-------------------------Script By SAMVPN-----------------------" | tee -a log-install.txt
 clear
 echo ""
 echo ""

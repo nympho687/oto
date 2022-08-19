@@ -1,7 +1,7 @@
-# Script DIYVPN (V1-Websocket)
+# Script SAMVPN (V1-Websocket)
  Welcome Dear😊
 
- <h2 align="center">AutoScript VPN By DIYVPN <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
+ <h2 align="center">AutoScript VPN By SAMVPN <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -53,9 +53,9 @@ systemctl restart wg-quick@wg0
 
 ## Info :
 
- ## Script for Sell Only. Contact owner on Telegram @NORULEZZx <a href="https://t.me/NORULEZZx" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+ ## Script for Sell Only. Contact owner on Telegram @sam_sfx <a href="https://t.me/sam_sfx" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
- ## For Buy Script : Contact Telegram @NORULEZZx <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+ ## For Buy Script : Contact Telegram @sam_sfx <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
  ## Main Menu
 
@@ -119,21 +119,19 @@ systemctl restart wg-quick@wg0
 
 ## Telegram
 
-[DIY_VPN](https://t.me/NORULEZZx)
+[SAMVPN](https://t.me/sam_sfx)
 
-[Group DIY-VPN](https://t.me/DIYNETWORKK)
-
-[Channel DIY-VPN](https://t.me/DIYVPNCHANNEL)
+[Group SAMVPN](https://t.me/shopsamvpn)
 
 ## Credit :
 
-*   DIYVPN
+*   SAMVPN
 
 *   Project D
 
 *   V2ray
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Copyright%20©-Diyvpn%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/Copyright%20©-SAMVPN%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
     </p>
    </p>
